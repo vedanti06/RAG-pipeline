@@ -9,6 +9,8 @@ Large Language Models often suffer from "hallucinations" when dealing with data 
 3. **Embeds** text into high-dimensional vector space.
 4. **Retrieves** relevant context to augment prompts, ensuring grounded and factual AI responses.
 
+![RAG Pipeline Architecture](rag.png)
+
 ## 🛠️ Technical Stack
 * **Language:** Python
 * **LLM Integration:** OpenAI / Anthropic / Local LLMs (via LangChain/LlamaIndex)
